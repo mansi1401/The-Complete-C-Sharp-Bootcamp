@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Single_Dimensional_Array", "Console_App_For_Array\Single_Dimensional_Array.csproj", "{EFF71BFD-1238-47AE-B83E-177CC97C7E99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi_Dimensional_Rectangular_Array", "Multi_Dimensional_Rectangular\Multi_Dimensional_Rectangular_Array.csproj", "{00CE3390-32C0-429C-9598-F6BA13355010}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jagged_Array", "Jagged_Array\Jagged_Array.csproj", "{F23FD5ED-40CF-4F99-A1B6-91547ED6D0DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Initializing Or Creating Array With User Input", "Initializing Or Creating Array With User Input\Initializing Or Creating Array With User Input.csproj", "{93F7F2A3-05CD-4574-95D4-5BF28F349E15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods Or Functions", "Methods Or Functions\Methods Or Functions.csproj", "{71B871FC-8CB5-4EA5-99B7-8BCCFB2AC219}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Value Type And Reference Type (stack And Heap)", "Value Type And Reference Type (stack And Heap)\Value Type And Reference Type (stack And Heap).csproj", "{F46E4BED-0468-40D6-900D-CEBD3DBD96EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFF71BFD-1238-47AE-B83E-177CC97C7E99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF71BFD-1238-47AE-B83E-177CC97C7E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF71BFD-1238-47AE-B83E-177CC97C7E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF71BFD-1238-47AE-B83E-177CC97C7E99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00CE3390-32C0-429C-9598-F6BA13355010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00CE3390-32C0-429C-9598-F6BA13355010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00CE3390-32C0-429C-9598-F6BA13355010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00CE3390-32C0-429C-9598-F6BA13355010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F23FD5ED-40CF-4F99-A1B6-91547ED6D0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F23FD5ED-40CF-4F99-A1B6-91547ED6D0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F23FD5ED-40CF-4F99-A1B6-91547ED6D0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F23FD5ED-40CF-4F99-A1B6-91547ED6D0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93F7F2A3-05CD-4574-95D4-5BF28F349E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93F7F2A3-05CD-4574-95D4-5BF28F349E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93F7F2A3-05CD-4574-95D4-5BF28F349E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93F7F2A3-05CD-4574-95D4-5BF28F349E15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71B871FC-8CB5-4EA5-99B7-8BCCFB2AC219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B871FC-8CB5-4EA5-99B7-8BCCFB2AC219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B871FC-8CB5-4EA5-99B7-8BCCFB2AC219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B871FC-8CB5-4EA5-99B7-8BCCFB2AC219}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F46E4BED-0468-40D6-900D-CEBD3DBD96EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F46E4BED-0468-40D6-900D-CEBD3DBD96EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F46E4BED-0468-40D6-900D-CEBD3DBD96EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F46E4BED-0468-40D6-900D-CEBD3DBD96EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB04952A-FF87-45B7-8439-E502D763BCFE}
+	EndGlobalSection
+EndGlobal

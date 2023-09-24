@@ -1,0 +1,7 @@
+C:\Users\Voldemort\Desktop\Practice For C#\Multi_Dimensional_Rectangular\bin\Debug\Multi_Dimensional_Rectangular.exe.config
+C:\Users\Voldemort\Desktop\Practice For C#\Multi_Dimensional_Rectangular\bin\Debug\Multi_Dimensional_Rectangular.exe
+C:\Users\Voldemort\Desktop\Practice For C#\Multi_Dimensional_Rectangular\bin\Debug\Multi_Dimensional_Rectangular.pdb
+C:\Users\Voldemort\Desktop\Practice For C#\Multi_Dimensional_Rectangular\obj\Debug\Multi_Dimensional_Rectangular.csproj.AssemblyReference.cache
+C:\Users\Voldemort\Desktop\Practice For C#\Multi_Dimensional_Rectangular\obj\Debug\Multi_Dimensional_Rectangular.csproj.CoreCompileInputs.cache
+C:\Users\Voldemort\Desktop\Practice For C#\Multi_Dimensional_Rectangular\obj\Debug\Multi_Dimensional_Rectangular.exe
+C:\Users\Voldemort\Desktop\Practice For C#\Multi_Dimensional_Rectangular\obj\Debug\Multi_Dimensional_Rectangular.pdb

@@ -1,0 +1,7 @@
+C:\Users\Voldemort\Desktop\Practice For C#\Value Type And Reference Type (stack And Heap)\bin\Debug\Value Type And Reference Type (stack And Heap).exe.config
+C:\Users\Voldemort\Desktop\Practice For C#\Value Type And Reference Type (stack And Heap)\bin\Debug\Value Type And Reference Type (stack And Heap).exe
+C:\Users\Voldemort\Desktop\Practice For C#\Value Type And Reference Type (stack And Heap)\bin\Debug\Value Type And Reference Type (stack And Heap).pdb
+C:\Users\Voldemort\Desktop\Practice For C#\Value Type And Reference Type (stack And Heap)\obj\Debug\Value Type And Reference Type (stack And Heap).csproj.AssemblyReference.cache
+C:\Users\Voldemort\Desktop\Practice For C#\Value Type And Reference Type (stack And Heap)\obj\Debug\Value Type And Reference Type (stack And Heap).csproj.CoreCompileInputs.cache
+C:\Users\Voldemort\Desktop\Practice For C#\Value Type And Reference Type (stack And Heap)\obj\Debug\Value Type And Reference Type (stack And Heap).exe
+C:\Users\Voldemort\Desktop\Practice For C#\Value Type And Reference Type (stack And Heap)\obj\Debug\Value Type And Reference Type (stack And Heap).pdb

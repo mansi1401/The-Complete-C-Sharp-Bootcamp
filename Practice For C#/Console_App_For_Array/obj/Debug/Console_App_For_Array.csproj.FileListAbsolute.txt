@@ -1,0 +1,7 @@
+C:\Users\Voldemort\Desktop\Practice For C#\Console_App_For_Array\bin\Debug\Console_App_For_Array.exe.config
+C:\Users\Voldemort\Desktop\Practice For C#\Console_App_For_Array\bin\Debug\Console_App_For_Array.exe
+C:\Users\Voldemort\Desktop\Practice For C#\Console_App_For_Array\bin\Debug\Console_App_For_Array.pdb
+C:\Users\Voldemort\Desktop\Practice For C#\Console_App_For_Array\obj\Debug\Console_App_For_Array.csproj.AssemblyReference.cache
+C:\Users\Voldemort\Desktop\Practice For C#\Console_App_For_Array\obj\Debug\Console_App_For_Array.csproj.CoreCompileInputs.cache
+C:\Users\Voldemort\Desktop\Practice For C#\Console_App_For_Array\obj\Debug\Console_App_For_Array.exe
+C:\Users\Voldemort\Desktop\Practice For C#\Console_App_For_Array\obj\Debug\Console_App_For_Array.pdb
