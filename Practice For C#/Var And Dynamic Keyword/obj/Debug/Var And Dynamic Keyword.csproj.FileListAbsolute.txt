@@ -1,0 +1,7 @@
+E:\Github Hosting\The-Complete-C-Sharp-Bootcamp\Practice For C#\Var And Dynamic Keyword\bin\Debug\Var And Dynamic Keyword.exe.config
+E:\Github Hosting\The-Complete-C-Sharp-Bootcamp\Practice For C#\Var And Dynamic Keyword\bin\Debug\Var And Dynamic Keyword.exe
+E:\Github Hosting\The-Complete-C-Sharp-Bootcamp\Practice For C#\Var And Dynamic Keyword\bin\Debug\Var And Dynamic Keyword.pdb
+E:\Github Hosting\The-Complete-C-Sharp-Bootcamp\Practice For C#\Var And Dynamic Keyword\obj\Debug\Var And Dynamic Keyword.csproj.AssemblyReference.cache
+E:\Github Hosting\The-Complete-C-Sharp-Bootcamp\Practice For C#\Var And Dynamic Keyword\obj\Debug\Var And Dynamic Keyword.csproj.CoreCompileInputs.cache
+E:\Github Hosting\The-Complete-C-Sharp-Bootcamp\Practice For C#\Var And Dynamic Keyword\obj\Debug\Var And Dynamic Keyword.exe
+E:\Github Hosting\The-Complete-C-Sharp-Bootcamp\Practice For C#\Var And Dynamic Keyword\obj\Debug\Var And Dynamic Keyword.pdb

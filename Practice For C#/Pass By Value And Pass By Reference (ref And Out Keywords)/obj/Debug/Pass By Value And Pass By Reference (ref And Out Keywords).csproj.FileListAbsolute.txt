@@ -1,7 +1,0 @@
-E:\Github Hosting\The-Complete-C-Sharp-Bootcamp\Practice For C#\Pass By Value And Pass By Reference (ref And Out Keywords)\bin\Debug\Pass By Value And Pass By Reference (ref And Out Keywords).exe.config
-E:\Github Hosting\The-Complete-C-Sharp-Bootcamp\Practice For C#\Pass By Value And Pass By Reference (ref And Out Keywords)\bin\Debug\Pass By Value And Pass By Reference (ref And Out Keywords).exe
-E:\Github Hosting\The-Complete-C-Sharp-Bootcamp\Practice For C#\Pass By Value And Pass By Reference (ref And Out Keywords)\bin\Debug\Pass By Value And Pass By Reference (ref And Out Keywords).pdb
-E:\Github Hosting\The-Complete-C-Sharp-Bootcamp\Practice For C#\Pass By Value And Pass By Reference (ref And Out Keywords)\obj\Debug\Pass By Value And Pass By Reference (ref And Out Keywords).csproj.AssemblyReference.cache
-E:\Github Hosting\The-Complete-C-Sharp-Bootcamp\Practice For C#\Pass By Value And Pass By Reference (ref And Out Keywords)\obj\Debug\Pass By Value And Pass By Reference (ref And Out Keywords).csproj.CoreCompileInputs.cache
-E:\Github Hosting\The-Complete-C-Sharp-Bootcamp\Practice For C#\Pass By Value And Pass By Reference (ref And Out Keywords)\obj\Debug\Pass By Value And Pass By Reference (ref And Out Keywords).exe
-E:\Github Hosting\The-Complete-C-Sharp-Bootcamp\Practice For C#\Pass By Value And Pass By Reference (ref And Out Keywords)\obj\Debug\Pass By Value And Pass By Reference (ref And Out Keywords).pdb
